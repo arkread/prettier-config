@@ -1,0 +1,14 @@
+{
+  "name": "@arkread/prettier-config",
+  "version": "0.0.1",
+  "description": "Prettier config for Ark projects.",
+  "main": "index.json",
+  "repository": "@arkread/prettier-config",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "author": "Yan Shi <mockee@ark.team> (https://mockee.com/)",
+  "license": "MIT",
+  "homepage": "https://github.com/arkread/prettier-config#readme"
+}
